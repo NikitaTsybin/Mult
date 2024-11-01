@@ -1,0 +1,11 @@
+streamlit
+pillow
+pandas
+plotly
+numpy
+python-docx
+mathml2omml
+latex2mathml
+math2docx
+openpyxl
+kaleido
